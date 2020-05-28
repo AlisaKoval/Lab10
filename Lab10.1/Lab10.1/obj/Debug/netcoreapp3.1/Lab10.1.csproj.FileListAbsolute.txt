@@ -1,0 +1,11 @@
+C:\Users\alisa\source\repos\Lab10\Lab10.1\Lab10.1\bin\Debug\netcoreapp3.1\Lab10.1.exe
+C:\Users\alisa\source\repos\Lab10\Lab10.1\Lab10.1\bin\Debug\netcoreapp3.1\Lab10.1.deps.json
+C:\Users\alisa\source\repos\Lab10\Lab10.1\Lab10.1\bin\Debug\netcoreapp3.1\Lab10.1.runtimeconfig.json
+C:\Users\alisa\source\repos\Lab10\Lab10.1\Lab10.1\bin\Debug\netcoreapp3.1\Lab10.1.runtimeconfig.dev.json
+C:\Users\alisa\source\repos\Lab10\Lab10.1\Lab10.1\bin\Debug\netcoreapp3.1\Lab10.1.dll
+C:\Users\alisa\source\repos\Lab10\Lab10.1\Lab10.1\bin\Debug\netcoreapp3.1\Lab10.1.pdb
+C:\Users\alisa\source\repos\Lab10\Lab10.1\Lab10.1\obj\Debug\netcoreapp3.1\Lab10.1.csprojAssemblyReference.cache
+C:\Users\alisa\source\repos\Lab10\Lab10.1\Lab10.1\obj\Debug\netcoreapp3.1\Lab10.1.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\Lab10\Lab10.1\Lab10.1\obj\Debug\netcoreapp3.1\Lab10.1.AssemblyInfo.cs
+C:\Users\alisa\source\repos\Lab10\Lab10.1\Lab10.1\obj\Debug\netcoreapp3.1\Lab10.1.dll
+C:\Users\alisa\source\repos\Lab10\Lab10.1\Lab10.1\obj\Debug\netcoreapp3.1\Lab10.1.pdb
